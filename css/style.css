@@ -1,4 +1,3 @@
-/* ===== THEME VARIABLES ===== */
 :root {
     --bg-color: 250, 250, 250;
     --text-color: 17, 17, 17;
@@ -189,7 +188,6 @@ h1 {
 .tag.active {
   background-color: rgb(var(--text-color));
   color: rgb(var(--bg-color));
-  font-weight: 700;
   font-style: normal;
 }
 
@@ -348,5 +346,3 @@ blockquote p:last-child {
     margin-bottom: 4rem;
   }
 }
-
-

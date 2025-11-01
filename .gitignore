@@ -1,0 +1,5 @@
+flake.lock
+.shake/
+.direnv/
+.envrc/
+dist-newstyle/
