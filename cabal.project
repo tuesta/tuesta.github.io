@@ -1,0 +1,4 @@
+packages: ./tuesta-me.cabal
+
+-- same as nix
+with-compiler: ghc-9.10.3

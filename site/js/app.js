@@ -1,6 +1,3 @@
-/**
- * THEME SWITCH
- */
 const themeToggleEl = document.querySelector('.theme-toggle');
 
 const moonIcon = `
