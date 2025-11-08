@@ -33,7 +33,11 @@
             </a>
 
             <nav class="main-nav">
-                <a href="#">Perfil</a>
+                <a href="https://github.com/tuesta" 
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Perfil
+                </a>
             </nav>
             <button class="theme-toggle icon-vibration" aria-label="Alternar entre tema claro y oscuro">
                 <svg class="theme-disabled" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor">
@@ -51,14 +55,14 @@
             </nav>
 
             <div class="post-list">
-                {{#posts}}
+                {{#tagPosts}}
                 <article class="post">
                     <h2>
                         <a href="/{{url}}">{{title}}</a>
                     </h2>
                     <time datetime="{{date-iso}}">{{date}}</time>
                 </article>
-                {{/posts}}
+                {{/tagPosts}}
            </div>
         </main>
 

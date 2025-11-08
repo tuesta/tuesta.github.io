@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Tuesta</title>
+  <link>{{siteUrl}}</link>
+  <atom:link href="{{siteUrl}}/rss.xml" rel="self" type="application/rss+xml" />
+  <description>{{siteDescription}}</description>
+  <managingEditor>tuesta@proton.me (Tuesta)</managingEditor>
+  <category>Tecnología</category>
+  <copyright>2025 Tuesta</copyright>
+  <language>es</language>
+  <image>
+      <url>{{siteUrl}}/images/favicon.png</url>
+    <title>Tuesta</title>
+    <link>{{siteUrl}}</link>
+  </image>
+  {{#posts}}
+  <item>
+      <title>{{title}}</title>
+      <author>tuesta@proton.me (Tuesta)</author>
+      <link>{{siteUrl}}/{{url}}</link>
+      <guid>{{siteUrl}}/{{url}}</guid>
+      <pubDate>{{date-rfc822}}</pubDate>
+      <description>{{description}}</description>
+      <media:thumbnail url='{{siteUrl}}/images/{{url}}_150x150.jpg' height='150' width='150' />
+      <content:encoded><![CDATA[
+        {{{content}}}
+      ]]></content:encoded>
+  </item>
+  {{/posts}}
+</channel>
+</rss>

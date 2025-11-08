@@ -6,7 +6,7 @@
 #+DESCRIPTION: Detesto esa «libertad» que elimina la idea de límite. Sin restricciones, el razonamiento colapsa. Este artículo propone una nueva perspectiva: la forma nace del fondo; el contorno nace de las restricciones. Elige tu lenguaje. Delimita tu mundo.
 
 #+AUTHOR: Tuesta
-#+DATE: <2025-10-31 vie>
+#+DATE: 2025-11-08
 #+KEYWORDS: Programación,Principios de Programación,Diseño de Lenguajes,Programación Funcional,Filosofía,Personal
 
 #+BEGIN_QUOTE
@@ -17,6 +17,7 @@ Los límites de mi lenguaje son los límites de mi mundo.\\
 #    Mostrar el problema (enfoque errado por parte del mundo)
 # -> Demostrar lógicamente la incapacidad del enfoque anterior y proponer uno lógicamente coherente
 # -> Manifiesto, presentar las consecuencias del nuevo enfoque
+
 ** El descontento fundacional
 # [Sección : Presentación del problema]
 Mi cuerpo lo supo antes que mi mente: nunca quise ser parte de esta ficción colectiva.
@@ -34,7 +35,7 @@ Detesto, sobre todo, lo que sustenta la ficción: esa «libertad» que elimina l
 Esta idea de libertad nos condena a representar la realidad en su estado más puro: compleja, impredecible, caótica. Y me niego.
 Me niego a calcar la realidad.
 
-La realidad me parece profundamente antiestética, me abruma, me embrutece.
+La realidad es profundamente antiestética, me abruma, me embrutece.
 Nos rebaja a la literalidad de las cosas, nos obliga a operar en su nivel. Degrada el razonamiento a mero procesamiento de estados, anula nuestra capacidad de abstracción.
 
 Frente a esta degradación, es necesario rebelarse: reinterpretar la realidad, despojarla de su complejidad y someterla al imperio de la razón.
