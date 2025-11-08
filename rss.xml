@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Tuesta</title>
+  <link>https://tuesta.me</link>
+  <atom:link href="https://tuesta.me/rss.xml" rel="self" type="application/rss+xml" />
+  <description>Abstracción, composición, profundidad. El espacio donde mi reflexión se plasma en texto.</description>
+  <managingEditor>tuesta@proton.me (Tuesta)</managingEditor>
+  <category>Tecnología</category>
+  <copyright>2025 Tuesta</copyright>
+  <language>es</language>
+  <image>
+      <url>https://tuesta.me/images/favicon.png</url>
+    <title>Tuesta</title>
+    <link>https://tuesta.me</link>
+  </image>
+  <item>
+      <title>La tiranía de la libertad</title>
+      <author>tuesta@proton.me (Tuesta)</author>
+      <link>https://tuesta.me/posts/la-tirania-de-la-libertad.html</link>
+      <guid>https://tuesta.me/posts/la-tirania-de-la-libertad.html</guid>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+      <description>Detesto esa «libertad» que elimina la idea de límite. Sin restricciones,
+el razonamiento colapsa. Este artículo propone una nueva perspectiva: la
+forma nace del fondo; el contorno nace de las restricciones. Elige tu
+lenguaje. Delimita tu mundo.</description>
+      <media:thumbnail url='https://tuesta.me/images/posts/la-tirania-de-la-libertad.html_150x150.jpg' height='150' width='150' />
+      <content:encoded><![CDATA[
+        <blockquote>
+<p>Los límites de mi lenguaje son los límites de mi mundo.<br />
+— Ludwig Wittgenstein</p>
+</blockquote>
+<h2 id="el-descontento-fundacional">El descontento fundacional</h2>
+<p>Mi cuerpo lo supo antes que mi mente: nunca quise ser parte de esta
+ficción colectiva.<br />
+Una ficción que, al naturalizar la falta de rigor, enmascarar los malos
+diseños e institucionalizar el error, convierte a la mediocridad en el
+único horizonte: un destino que se acepta con la tranquilidad de lo
+inevitable.</p>
+<p>Detesto el <em>status quo</em> de la programación.</p>
+<p>Detesto la ambigüedad elevada a virtud.</p>
+<p>Detesto la rendición disfrazada de pragmatismo.</p>
+<p>Detesto, sobre todo, lo que sustenta la ficción: esa «libertad» que
+elimina la idea de límite.</p>
+<p>Esta idea de libertad nos condena a representar la realidad en su
+estado más puro: compleja, impredecible, caótica. Y me niego. Me niego a
+calcar la realidad.</p>
+<p>La realidad es profundamente antiestética, me abruma, me embrutece.
+Nos rebaja a la literalidad de las cosas, nos obliga a operar en su
+nivel. Degrada el razonamiento a mero procesamiento de estados, anula
+nuestra capacidad de abstracción.</p>
+<p>Frente a esta degradación, es necesario rebelarse: reinterpretar la
+realidad, despojarla de su complejidad y someterla al imperio de la
+razón.</p>
+<h2 id="la-lógica-de-los-límites">La lógica de los límites</h2>
+<p>El propósito último de un programa no es producir una salida
+correcta; es poder ser razonado. Su correcto funcionamiento es una
+consecuencia inevitable de esa claridad. Sin ella, lo que llamamos
+«éxito» es solo el silencio previo al error.</p>
+<p>Todo razonamiento necesita axiomas: verdades fundamentales que
+aceptamos como punto de partida incuestionable. Partimos de premisas
+para construir conclusiones, avanzando gradualmente hacia la solución.
+Esta necesidad no es accidental, sino inherente a nuestra naturaleza
+cognitiva.</p>
+<p>Reconozcamos nuestra limitación fundamental: somos incapaces de
+resolver problemas complejos. Nuestra fortaleza reside en la
+composición.</p>
+<p>Si negamos toda restricción, caemos en la tiranía de la
+libertad.<br />
+Un sistema que se niega a excluir se vuelve incapaz de definir. Sin
+definición, no puede haber certeza; sin exclusión, no puede existir
+congruencia; sin restricción, el razonamiento se hace imposible.<br />
+El resultado es un universo inerte —y necesariamente inerte—: homogéneo,
+estructuralmente gaseoso, donde todo flota en el vacío de lo
+subjetivo.</p>
+<h2 id="la-forma-necesaria">La forma necesaria</h2>
+<p>La libertad, que el status quo presenta como indispensable, era una
+ilusión que la ejecución no podía sostener: un programa que se niega a
+definir sus límites no puede no colapsar —su propia lógica exige
+coherencia—, y es en este colapso en el que se revela su verdadera
+naturaleza; sin límites, la coherencia es imposible.</p>
+<p>Esta conclusión nos conduce inevitablemente a definir un marco
+constructor con solidez lógica; debemos aceptar con humildad los límites
+del razonamiento —límites que la programación funcional expresa con
+rigor matemático—, estableciendo el fundamento desde el cual puede
+emerger la creación coherente.</p>
+<p>Una nueva perspectiva: la forma nace del fondo; el contorno nace de
+las restricciones.</p>
+<p>Su esencia es definir, con precisión matemática, el espacio donde la
+solución puede existir: comprender el problema en su estado más puro es
+trazar sus límites.<br />
+No inventamos, descubrimos —consecuencia natural de esta perspectiva—.
+Trascendemos lo establecido para forjar restricciones propias, guiados
+por la lógica del dominio, hasta que la solución revela su forma
+necesaria.</p>
+<p>El proceso de descubrimiento debe protegerse de la implementación,
+ese mal necesario que nos compromete con la realidad imperfecta. Su
+peligro no está en su existencia, sino en su aparición prematura, que
+impone un costo inasumible: limita la abstracción en su composibilidad,
+la despoja de elegancia y la reduce a lo específico.</p>
+<p>Definimos un universo de reglas claras donde la solución se revela
+sin buscarla. Emergen entonces riquezas estructurales inesperadas,
+relaciones que no veíamos, caminos que nos llevan a una solución más
+general, más simple, más verdadera.</p>
+<p>Sentimos la profunda inevitabilidad del diseño mientras fluimos por
+la corriente de las restricciones. Cada paso consolida certezas; podemos
+declarar imposibles, afirmar necesarios. Lo correcto se vuelve evidente,
+lo falso, irrepresentable.</p>
+<p>La ejecución —meramente útil, profundamente antiestética— es el
+efecto secundario de una abstracción que no necesita de la realidad.</p>
+<blockquote>
+<p>Elige tu lenguaje. Delimita tu mundo.<br />
+— Réplica a Ludwig Wittgenstein</p>
+</blockquote>
+      ]]></content:encoded>
+  </item>
+</channel>
+</rss>
